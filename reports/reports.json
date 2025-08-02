@@ -1,0 +1,42 @@
+[
+  {
+    "personOrCase": "CELESTE",
+    "phone": "+12513159160",
+    "country": "US",
+    "isValidCase": true,
+    "ipAddress": "::1",
+    "date": "31. 7. 2025."
+  },
+  {
+    "personOrCase": "John",
+    "phone": "+381601234567",
+    "country": "RS",
+    "isValidCase": true,
+    "ipAddress": "1.2.3.4",
+    "date": "31. 7. 2025."
+  },
+  {
+    "personOrCase": "John",
+    "phone": "+381601234567",
+    "country": "RS",
+    "isValidCase": true,
+    "ipAddress": "1.2.3.4",
+    "date": "31. 7. 2025."
+  },
+  {
+    "personOrCase": "John",
+    "phone": "+381601234567",
+    "country": "RS",
+    "isValidCase": true,
+    "ipAddress": "1.2.3.4",
+    "date": "31. 7. 2025."
+  },
+  {
+    "personOrCase": "CELESTE",
+    "phone": "+12513159160",
+    "country": "US",
+    "isValidCase": true,
+    "ipAddress": "::1",
+    "date": "31. 7. 2025."
+  }
+]
